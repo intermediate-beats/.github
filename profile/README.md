@@ -1,7 +1,6 @@
-## Stuck in the middle
 Welcome to Intermediate Beats.
 
-We are lifetime learners of making tunes. We're definitely not experts, but not quite noobs. We're not afraid to RTFM or hit up a search engine. But we find that most of the content out there is written for people who are further down or further up the mountain.  
+We are lifetime learners of making tunes. We're definitely not experts, but not quite noobs. We're not afraid to RTFM or hit up a search engine. But we find that most of the content out there is written for people who are further down or further up the mountain. These travel tips are intended for fellow climbers stuck in the valleys and stranded atop minor peaks on their way up the summit of musical mastery. 
 
 For now, content is organized in repositories based specific tools, with most of the content in each repo's wiki. Any or all of this may change.
 
